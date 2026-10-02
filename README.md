@@ -11,4 +11,4 @@ Dean, Judith M., and Mary E. Lovely. 2010. “Trade Growth, Production Fragmenta
 
 * **数据内容**：Concordance of ISIC (revision 3) to SIC (revision 1987)
 * **原始数据下载**：
-(https://faculty.som.yale.edu/peterschott/international-trade-data/#:~:text=asp%3FLg%3D1-,ISIC%20to%20SIC,-Concordance%20of%20US)
+(https://spinup-000d1a-wp-offload-media.s3.amazonaws.com/faculty/wp-content/uploads/sites/47/2019/10/isic3_ussic_raw_from_un_01.dta)
